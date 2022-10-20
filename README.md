@@ -4,7 +4,7 @@ Done under Prof. Mohammad Soltanieh Ha,  as EDA for AIRBNB IN NYC
 Dated 20th Oct 2022.
 
 Contributors to this project as teams members are listed here:
-1. HENGYUAN CAO 
+1. Hengyuan Cao 
 2. Kwan Wing Tuet
 3. Prateek Naharia
 4. Xingyu Yao
