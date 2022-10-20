@@ -1,7 +1,7 @@
 # Airbnb_NYC_Project
 BA775 Subject Of Questrom School Of Business, Boston University, done under Prof. Mohammad Soltanieh Ha, as EDA for AIRBNB IN NYC
-Contributors to this project as teams members are listed here:
 
+Contributors to this project as teams members are listed here:
 1. HENGYUAN CAO
 2. Kwan Wing Tuet
 3. Prateek Naharia
